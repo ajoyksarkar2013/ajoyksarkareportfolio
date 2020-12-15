@@ -1,0 +1,42 @@
+a {
+    font-family: monospace;
+    font-size: 18px;
+    font-style: normal;
+    color: burlywood;
+    padding-right: 5px;
+    align-content: center;
+
+}
+a{
+    text-decoration: none;
+}
+h3{
+    font-family: cursive;
+    font-size: 20px;
+    font-style: normal;
+    color: dimgrey;
+    align-content: center;
+}
+h4{
+    font-family: cursive;
+    font-size: 20px;
+    font-style: normal;
+    color: dimgrey;
+    align-content: center;
+}
+h5{
+	font-family: cursive;
+    font-size: 20px;
+    font-style: normal;
+    color: dimgrey;
+    align-content: center;
+}
+h6{
+	font-family: cursive;
+    font-size: 20px;
+    font-style: normal;
+    color: dimgrey;
+    align-content: center;
+}
+
+}
